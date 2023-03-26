@@ -1,4 +1,4 @@
-mane: Test Project
+nane: Test Project
 on: push
 jobs:
   test:
